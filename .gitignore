@@ -1,0 +1,18 @@
+# Temporary documentation #
+*.~lock.*
+*.docstates
+
+# Temporary Vim #
+*.swp
+*.swo
+*.swn
+*.vim
+
+# Diffing temporary files #
+*.orig
+
+# Compiled documentation #
+*.ps
+PostScript
+PDF
+

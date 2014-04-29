@@ -1,0 +1,15 @@
+The docmentation files within this repository are intended to describe the ZED
+API and its inner-workings.
+
+The following documentation media are planned:
+* HTML via Doxygen (using the source code's comments)
+* PDF via LaTeX
+* man pages
+
+The following docuentation types are planned:
+* API reference
+* Tutorials
+* Underlying implementation details for extending ZED
+* Roadmap
+* User guides
+
